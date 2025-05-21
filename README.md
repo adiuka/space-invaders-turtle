@@ -16,3 +16,5 @@ Potential improvements:
 6. Lastly I think the project is quite complicated, I am sure I can optimise.
 
 Otherwise, enjoy!
+
+![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR3eXZzZzdodnJlN29sbWhnZDhtNGgydmRqbGZ2eWFwOHY4aTlicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fF8c4CgUTT0f54CuB/giphy.gif)
